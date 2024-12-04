@@ -25,7 +25,7 @@ Many mood-tracking apps on the market aren’t optimized for ADHD and anxiety ne
 
 - **Languages**: Developed in Python
 - **Platforms**: AuraBot is built using Discord’s Developer Portal, with code developed and maintained on VS Code and GitHub. MongoDB is used as the database. 
-- **Accessibility Enhancements**: AuraBot is screen-reader compatible and includes text-to-speech support where needed, ensuring that it’s accessible to all users.
+- **Accessibility Enhancements**: Inclusive automated tool for anxiety and/or ADHD users and prioritized intuitive commands and minimal cognitive load
 
 ### Current Development Status 📈
 
